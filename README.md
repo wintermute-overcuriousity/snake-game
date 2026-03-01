@@ -1,6 +1,6 @@
 # Snake Game
 
-![Snake Game](https://bin.mikoshi.de/upload/common-lumber-much)
+![Snake Game](screenshot.png)
 
 A classic Snake game built with Python and Pygame. Control a snake to collect apples, grow longer, and avoid collisions with yourself. Features colorful graphics, smooth controls, and a polished game experience.
 
@@ -37,11 +37,6 @@ A classic Snake game built with Python and Pygame. Control a snake to collect ap
    ```bash
    python snake_game.py
    ```
-
-### Alternative: Direct Download
-You can also download the standalone Python script from:
-- **Python Script**: https://bin.mikoshi.de/file/divorce-direct-soldier
-- **Installation Guide**: https://bin.mikoshi.de/file/cash-child-ripple
 
 ## Usage
 
@@ -100,6 +95,7 @@ SOFTWARE.
 snake-game/
 ├── snake_game.py      # Main game implementation
 ├── README.md          # This documentation file
+├── screenshot.png     # Game screenshot
 └── LICENSE            # MIT License file
 ```
 
