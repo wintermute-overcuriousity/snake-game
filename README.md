@@ -2,6 +2,12 @@
 
 A classic Snake game built with Python and Pygame. Control a snake to collect apples, grow longer, and avoid collisions with yourself. Features colorful graphics, smooth controls, and a polished game experience.
 
+## Screenshot
+
+![Snake Game Screenshot](https://bin.mikoshi.de/upload/common-lumber-much)
+
+*Screenshot of the Snake game in action showing the snake, apples, score display, and grid background.*
+
 ## Features
 
 - **Classic Snake gameplay**: Collect apples to grow longer and increase your score
@@ -22,7 +28,7 @@ A classic Snake game built with Python and Pygame. Control a snake to collect ap
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/snake-game.git
+   git clone https://github.com/wintermute-overcuriousity/snake-game.git
    cd snake-game
    ```
 
