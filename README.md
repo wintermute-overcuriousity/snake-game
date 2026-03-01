@@ -1,12 +1,8 @@
 # Snake Game
 
+![Snake Game](https://bin.mikoshi.de/upload/common-lumber-much)
+
 A classic Snake game built with Python and Pygame. Control a snake to collect apples, grow longer, and avoid collisions with yourself. Features colorful graphics, smooth controls, and a polished game experience.
-
-## Screenshot
-
-![Snake Game Screenshot](https://bin.mikoshi.de/upload/common-lumber-much)
-
-*Screenshot of the Snake game in action showing the snake, apples, score display, and grid background.*
 
 ## Features
 
